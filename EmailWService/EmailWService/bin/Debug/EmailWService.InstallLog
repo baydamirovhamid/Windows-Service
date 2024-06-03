@@ -1,0 +1,52 @@
+﻿Installing assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Installing assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.InstallLog
+   assemblypath = C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+Restoring event log to previous state for source Service1.

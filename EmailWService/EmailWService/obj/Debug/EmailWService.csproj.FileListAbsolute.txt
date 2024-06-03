@@ -1,0 +1,9 @@
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe.config
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.exe
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\bin\Debug\EmailWService.pdb
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\obj\Debug\EmailWService.csproj.AssemblyReference.cache
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\obj\Debug\EmailWService.ProjectInstaller.resources
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\obj\Debug\EmailWService.csproj.GenerateResource.cache
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\obj\Debug\EmailWService.csproj.CoreCompileInputs.cache
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\obj\Debug\EmailWService.exe
+C:\Users\99470\Desktop\WindowsService\EmailWService\EmailWService\obj\Debug\EmailWService.pdb
